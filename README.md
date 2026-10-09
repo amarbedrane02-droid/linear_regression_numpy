@@ -27,3 +27,4 @@ Set `PLOT = True` at the top of the file to also draw the fitted line (needs mat
 ## Files
 - `linear_regression.py` — the full code
 - `requirements.txt` — dependencies
+- `notebook7c5836582f.ipynb` — the Kaggle notebook with code, results and plot
